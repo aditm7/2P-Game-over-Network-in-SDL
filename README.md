@@ -60,6 +60,7 @@ Navigate IIT Delhi campus to complete campaigning tasks!
 #### Health Recharge
 - **Hospital (Press h)**: Recharges health to full at the cost of 40 points.
 <img src="img/report3.png" alt="Alt text" width="75" height="50">
+
 - **Outlets (Press f)**: Increases health by 20 at the cost of 10 points.
 <img src="img/report4.png" alt="Alt text" width="75" height="50">
 <img src="img/report5.png" alt="Alt text" width="75" height="50">
@@ -68,14 +69,17 @@ Navigate IIT Delhi campus to complete campaigning tasks!
 #### Dogs and Coins
 - **Dogs**: NPCs that reduce player health by 5 units upon collision.
 <img src="img/report7.png" alt="Alt text" width="75" height="50">
+
 - **Coins**: Each coin is worth 50 points.
 <img src="img/report6.png" alt="Alt text" width="75" height="50">
 
 #### Yulu Riding
 - **Press y**: Get on Yulu.
 <img src="img/report8.png" alt="Alt text" width="75" height="50">
+
 - **Bill**: Accumulates over time.
 <img src="img/report10.png" alt="Alt text" width="75" height="50">
+
 - **Press t**: Get off Yulu.
 <img src="img/report11.png" alt="Alt text" width="75" height="50">
 
